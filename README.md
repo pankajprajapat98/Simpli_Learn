@@ -1,6 +1,6 @@
 # Simplilearn AI Era Event Landing Page
 
-limk https://simpli-learn-blush.vercel.app/
+link https://simpli-learn-blush.vercel.app/
 
 A pixel-perfect, fully responsive Next.js landing page for "The Skills That Matter Most: Preparing Your Workforce & Leaders for the AI Era" event by Simplilearn.
 
